@@ -33,4 +33,6 @@ Currently exploring Rust and working towards understanding how computers operate
 
 ---
 
-*"A fish does not concern itself with the opinions of birds."*
+
+
+### *"A fish does not concern itself with the opinions of birds."*
