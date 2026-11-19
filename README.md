@@ -5,11 +5,11 @@
 
 Hey! My name is Elias.
 
-I'm an aspiring **Systems Programmer** interested in low-level computing, systems development, and software engineering.
+I am an aspiring **Systems Programmer** interested in low-level computing, systems development, and software engineering.
 
-Currently exploring Rust and working towards understanding how computers operate under the hood.
+Currently exploring Rust and working towards understanding how computers operate.
 
-## What I'm Working On
+## What I am Working On
 
 - Learning **Rust**
 - Learning **Python**
