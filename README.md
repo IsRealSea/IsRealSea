@@ -1,6 +1,5 @@
-# **IsSea [Elias]**
 
----
+# **IsSea [Elias]**
 
 ## About Me
 
