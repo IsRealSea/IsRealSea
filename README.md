@@ -1,6 +1,9 @@
 
-# **IsSea [Elias]**
 
+
+
+# **IsSea [Elias]**
+![Banner](Assets/BannerGitPurple.png)
 ## About Me
 
 Hey! My name is Elias.
