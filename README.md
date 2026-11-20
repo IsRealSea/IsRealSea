@@ -7,7 +7,7 @@ Hey! My name is Elias.
 
 I am an aspiring **Systems Programmer** interested in low-level computing, systems development, and software engineering.
 
-Currently exploring Rust and working towards understanding how computers operate.
+Currently trying out Rust and working on understanding how computers operate.
 
 ## What I am Working On
 
